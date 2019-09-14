@@ -35,7 +35,7 @@ public class demo {
 		Thread.sleep(2000);
 
 		// To enter password in text box.
-		driver.findElement(By.xpath("//*[@id=\"password\"]")).sendKeys("prachi@654321");
+		driver.findElement(By.xpath("//*[@id=\"password\"]")).sendKeys("qwerty@123");
 		Thread.sleep(2000);
 
 		// To enter work space name.
